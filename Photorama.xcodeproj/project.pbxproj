@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		433B714D2A4C976200CAABAF /* PhotoInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 433B714C2A4C976200CAABAF /* PhotoInfoViewController.swift */; };
 		434162122A4A1F8000BAAB4A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434162112A4A1F8000BAAB4A /* AppDelegate.swift */; };
 		434162142A4A1F8000BAAB4A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434162132A4A1F8000BAAB4A /* SceneDelegate.swift */; };
 		434162192A4A1F8000BAAB4A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 434162172A4A1F8000BAAB4A /* Main.storyboard */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		433B714C2A4C976200CAABAF /* PhotoInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoInfoViewController.swift; sourceTree = "<group>"; };
 		4341620E2A4A1F8000BAAB4A /* Photorama.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Photorama.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		434162112A4A1F8000BAAB4A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		434162132A4A1F8000BAAB4A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				434162272A4A223300BAAB4A /* FlickrAPI.swift */,
 				434162312A4A2EE900BAAB4A /* .gitignore */,
 				434162292A4A28A500BAAB4A /* PhotoStore.swift */,
+				433B714C2A4C976200CAABAF /* PhotoInfoViewController.swift */,
 				4341622F2A4A2E4B00BAAB4A /* InfoFile.swift */,
 				434162252A4A1FF100BAAB4A /* PhotosViewController.swift */,
 				4341622B2A4A2C5D00BAAB4A /* Photo.swift */,
@@ -170,6 +173,7 @@
 				434162262A4A1FF100BAAB4A /* PhotosViewController.swift in Sources */,
 				434162122A4A1F8000BAAB4A /* AppDelegate.swift in Sources */,
 				43A8F2D82A4B675700FCCF12 /* PhotoCollectionViewCell.swift in Sources */,
+				433B714D2A4C976200CAABAF /* PhotoInfoViewController.swift in Sources */,
 				43A8F2D62A4B577C00FCCF12 /* PhotoDataSource.swift in Sources */,
 				434162142A4A1F8000BAAB4A /* SceneDelegate.swift in Sources */,
 				434162282A4A223300BAAB4A /* FlickrAPI.swift in Sources */,
